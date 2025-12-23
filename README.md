@@ -10,11 +10,7 @@ The models are distributed as notebooks that are easy to run locally, or on Goog
 
 The current version of the repository works best with 16GB VRAM, and also supports <8GB VRAM edge/personal computer environments.
 
-# How to Use
 
-* The most stable model is available at https://github.com/mkturkcan/generative-agents/tree/main/notebook/Release.
-* WIP models with the latest features will be available in https://github.com/mkturkcan/generative-agents/tree/main/notebook/WIP.
-* A WIP library is available under https://github.com/mkturkcan/generative-agents/tree/main/game_simulation.
 
 ## Model
 
