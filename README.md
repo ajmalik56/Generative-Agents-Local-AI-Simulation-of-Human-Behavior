@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://github.com/mkturkcan/generative-agents/blob/main/assets/logo.png?raw=true"  width="180" />
-</p>
 
 <h3 align="center">
   <p>Generative Large Language Models for Human-Like Behavior</p>
 </h3>
 
-This repository includes a working version of the type of model described in [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
 
 ## Setup
 
